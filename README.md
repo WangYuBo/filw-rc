@@ -1,8 +1,8 @@
 # 爱智慧读书会
 ## 活动简介
 为追求智慧的一群人，聚集起来相互砥砺、拓宽视野、培养多元思维。
-[读书会理念](https://github.com/WangYuBo/fallin-wisdom-reading-club/blob/master/doc/why.md)
 
+[读书会理念](https://github.com/WangYuBo/fallin-wisdom-reading-club/blob/master/doc/why.md)、
 [读书会阅读规划及氛围](https://github.com/WangYuBo/fallin-wisdom-reading-club/blob/master/doc/fallin-wisedom-reading-club-plan.md)
 
 
