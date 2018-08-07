@@ -1,8 +1,8 @@
 ## 爱智慧读书会规划
 
-以“寻找智慧”为主题，理念见[爱智慧读书小组理念](https://www.douban.com/note/680099785/).近期规划第一期自九月开始。
+以“寻找智慧”为主题，理念见[爱智慧读书小组理念](https://www.douban.com/note/680099785/).本系列书单来自[开智正典](https://www.douban.com/doulist/41691053/)，由北京开智学堂创建，[书单导读](https://mp.weixin.qq.com/s?__biz=MzA4ODM4ODQ3MQ==&mid=400064046&idx=1&sn=a138f459257a14f03f967af8d6160df2#rd)可供参考。
 
-到18年年底，计划以每月一本的频率读完这五本书，
+近期规划第一期自九月开始，到18年年底，计划以每月一本的频率读完这五本书：
 
 1. 侯世达：[集异璧](https://book.douban.com/subject/1291204/)
 
