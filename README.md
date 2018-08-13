@@ -2,9 +2,11 @@
 ## 活动简介
 追求智慧的一群人，聚集起来,相互砥砺、拓宽视野、培养多元思维。
 
-[为什么要做爱智慧读书会](https://github.com/WangYuBo/fallin-wisdom-reading-club/blob/master/doc/why.md)
-[读书会理念](https://github.com/WangYuBo/fallin-wisdom-reading-club/blob/master/doc/ideas.md)、
-[读书会阅读规划及氛围](https://github.com/WangYuBo/fallin-wisdom-reading-club/blob/master/doc/fallin-wisedom-reading-club-plan.md)、
+[为什么要做爱智慧读书会？](https://github.com/WangYuBo/fallin-wisdom-reading-club/blob/master/doc/why.md)
+
+[爱智慧读书会理念](https://github.com/WangYuBo/fallin-wisdom-reading-club/blob/master/doc/ideas.md)
+
+[读书会阅读规划及氛围](https://github.com/WangYuBo/fallin-wisdom-reading-club/blob/master/doc/fallin-wisedom-reading-club-plan.md)
 
 
 ## 活动记录（持续更新）
