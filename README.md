@@ -12,7 +12,7 @@
 ## 活动记录（持续更新）
 | 　序号　|  主题  |  时间  |  轮值主席  | 　分享人　| 链接  | 分享总结 |
 | -- | -- | --| -- | -- | -- | -- | 
-|　１　|  音乐、物理、人工智能与意识：GEB   |  180909 | 慕广陵 |　慕广陵&待定 | [豆瓣](https://www.douban.com/event/31006743/) 、[微信公号]() | 待写 |
+|　１　|  音乐、物理、人工智能与意识：GEB   |  180909 | 慕广陵 |　慕广陵&待定 | [豆瓣](https://www.douban.com/event/31006743/) 、[微信公号](https://mp.weixin.qq.com/s?timestamp=1536457311&src=3&ver=1&signature=o2E-RbrwBGa0tCZCkkrRqC0AGvuXEqFeqWW7XGdCw81Q6k5cgNcSpjxRMFQmcFA3UUFVNeb3ZvmWLVybYA52DB83Naml4O*28GKKBs1Qt8-tPnl6G6Wq3Bx*ucL7Z2CHq6xHixZf4zdWl7IjlIDrzp8njbqaXqKd7mV-I4V0bCA=) | 待写 |
 
 
 
